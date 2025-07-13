@@ -6,3 +6,5 @@ Learning workflow with AI
 Changing direction of the project for the moment
 
 Almost finished with direction change of the project
+
+new direction beginning achieved
