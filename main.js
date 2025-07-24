@@ -6,6 +6,7 @@ class App extends React.Component {
     return (
       <div>
         <h1>Hello World!</h1>
+        <p>This is THE FIRST paragraph.</p>
         <p>This is the paragraph.</p>
       </div>
     );
