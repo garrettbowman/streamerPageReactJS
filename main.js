@@ -8,6 +8,7 @@ class App extends React.Component {
         <h1>Hello World!</h1>
         <p>This is THE FIRST paragraph.</p>
         <p>This is the paragraph.</p>
+        <p>This is the 2nd paragraph.</p>
       </div>
     );
   }
