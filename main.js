@@ -9,6 +9,7 @@ class App extends React.Component {
         <p>This is THE FIRST paragraph.</p>
         <p>This is the paragraph.</p>
         <p>This is the 2nd paragraph.</p>
+        <p>This is the 3rd paragraph.</p>
       </div>
     );
   }
